@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\typeScript_tutorial\\talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\.08c9225e3a0582070b40188e35cd0f82379ba9e4-audit.json",
+    "files": [
+        {
+            "date": 1723440211699,
+            "name": "C:\\typeScript_tutorial\\talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-12-08-11-success.log",
+            "hash": "206805040494557c5ee756cbb57e70732aacf845ec7fe6a8532e30b5ef043460"
+        }
+    ],
+    "hashType": "sha256"
+}
