@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\typeScript_tutorial\\a-talimedisin\\clone\\HealthCare-Server-main\\logs\\winston\\errors\\.e22a2c1b6d61d6fe47f32f6e11f87da5f11aefa7-audit.json",
+    "files": [
+        {
+            "date": 1727751515358,
+            "name": "C:\\typeScript_tutorial\\a-talimedisin\\clone\\HealthCare-Server-main\\logs\\winston\\errors\\phu-2024-01-10-08-error.log",
+            "hash": "9b8131882df680543c36455d3c03c9da499c5e70e4079670257b36dd4d75d0e8"
+        }
+    ],
+    "hashType": "sha256"
+}
