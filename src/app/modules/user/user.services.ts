@@ -37,8 +37,8 @@ const createDoctor = async (req: Request) => {
       data: req.body.doctor,
     });
 
-    const { id, email, name, contactNumber, address } = newDoctor;
-    await index.addDocuments([{ id, email, name, contactNumber, address }]);
+    // const { id, email, name, contactNumber, address } = newDoctor;
+    // await index.addDocuments([{ id, email, name, contactNumber, address }]);
 
     return newDoctor;
   });
