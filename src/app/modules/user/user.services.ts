@@ -190,10 +190,10 @@ const getAllUser = async (
 };
 
 const getMyProfile = async (authUser: any) => {
-  const userData = await prisma.user.findUnique({
+  const userData = await prisma?.user?.findUnique({
     where: {
-      id: authUser.userId,
-      status: UserStatus.ACTIVE,
+      id: authUser?.userId,
+      status: UserStatus?.ACTIVE,
     },
     select: {
       email: true,

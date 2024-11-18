@@ -187,7 +187,7 @@ const getAllFromDB = async (
   const doctorsSchedules = await prisma.doctorSchedule.findMany({
     where: {
       doctor: {
-        email: user.email
+        email: user?.email
       }
     }
   });
