@@ -1,16 +1,9 @@
 {
-    "version":2,
-    "builds":[
-        {
-            "src":"/index.js",
-            "use":"@vercel/node"
+    "builds": [{
+        "src": "package.json",
+        "use": "@vercel/node",
+        "config": {
+            "outputDirectory": "build"
         }
-    ],
-    "routes":[
-        {
-            "src":"/(.*)",
-            "dest":"/",
-            "methods":["GET","POST","PUT","PATCH","DELETE","OPTIONS"]
-        }
-    ]
+    }]
 }
