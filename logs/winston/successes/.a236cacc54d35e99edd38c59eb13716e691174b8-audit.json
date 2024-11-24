@@ -6,34 +6,24 @@
     "auditLog": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\.a236cacc54d35e99edd38c59eb13716e691174b8-audit.json",
     "files": [
         {
-            "date": 1723522060894,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-10-success.log",
-            "hash": "64f8275874a5bc18240ba0914a8dc322be7c2c3dbff68365ef9f6cbd5ddb75bc"
+            "date": 1732203016360,
+            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-21-11-21-success.log",
+            "hash": "379a27122a01c375970c8039370c52ed10f06c69c4a0f1773e223be9ad5a854b"
         },
         {
-            "date": 1723531901651,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-12-success.log",
-            "hash": "69454d864e2f8dfe2a85392aaca8a5caadcc07ee6dfb7ca4a5de23584477c34c"
+            "date": 1732238728743,
+            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-22-11-07-success.log",
+            "hash": "0d32d3c0a8a62f34c5d14e8ef62aea48ac8dc404da352b94b7c0755ec61a5f6f"
         },
         {
-            "date": 1723542606798,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-15-success.log",
-            "hash": "2728c0a70d4512f948cf0c6877dc138edafedfb5c0354af246772af54e366bdd"
+            "date": 1732262752691,
+            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-22-11-14-success.log",
+            "hash": "acc3f0acca69f1c092cf191098d3bc3e06531db205958b78389f626636b4b5b3"
         },
         {
-            "date": 1723557390695,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-19-success.log",
-            "hash": "f71c7f143af179e5d87bb091ddcb29a30fc0ed6146197ff7c67ac8ce6ed10b1b"
-        },
-        {
-            "date": 1723558037213,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-20-success.log",
-            "hash": "cea3568a123a2ccedb682e6355493a06b04d3165c778dff92739bdbe7210e2cd"
-        },
-        {
-            "date": 1723570948326,
-            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-13-08-23-success.log",
-            "hash": "92fb9bd3822cd0dddfc018fffaf04b1494ca13873ad6894259b04b994b1033aa"
+            "date": 1732421505854,
+            "name": "C:\\typeScript_tutorial\\a-talimedisin\\HealthCare-Server-main\\logs\\winston\\successes\\phu-2024-24-11-10-success.log",
+            "hash": "3828d29333b768239c8500ffaecf2a12b7afb0674cf4bf810698e9c0a0fbecb6"
         }
     ],
     "hashType": "sha256"
